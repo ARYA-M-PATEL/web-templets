@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mike42/escpos-php": "^4.0",
+        "fawno/modbus": "^0.2.1"
+    }
+}
